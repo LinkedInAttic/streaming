@@ -1,0 +1,6 @@
+[submodule "likafka/kafka-monitor"]
+	path = likafka/kafka-monitor
+	url = https://github.com/linkedin/kafka-monitor
+[submodule "likafka/Burrow"]
+	path = likafka/Burrow
+	url = https://github.com/linkedin/Burrow
