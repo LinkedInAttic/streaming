@@ -4,3 +4,9 @@
 [submodule "likafka/Burrow"]
 	path = likafka/Burrow
 	url = https://github.com/linkedin/Burrow
+[submodule "likafka/cruise-control"]
+	path = likafka/cruise-control
+	url = https://github.com/linkedin/cruise-control.git
+[submodule "likafka/li-apache-kafka-clients"]
+	path = likafka/li-apache-kafka-clients
+	url = https://github.com/linkedin/li-apache-kafka-clients.git
